@@ -192,7 +192,7 @@ h6 {
 }
 
 #header .subscribe .subscribe-form input[type=submit]:hover {
-  background: #f50000;
+  background: #009ff5;
 }
 
 #header .subscribe .error-message {
@@ -523,5 +523,5 @@ section {
 }
 
 #footer .credits a {
-  color: #ff3333;
+  color: #0084ff;
 }
